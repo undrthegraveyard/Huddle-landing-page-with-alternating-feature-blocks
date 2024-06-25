@@ -449,7 +449,7 @@ article{
 }
 
 /* Media Queries */
-@media (min-width: 766px){
+@media screen and (min-width: 766px){
 
 .hero{
   grid-template-columns: repeat(2, 1fr);
