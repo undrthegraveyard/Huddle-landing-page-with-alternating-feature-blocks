@@ -14,7 +14,7 @@
 
 ## Overview
 
-Responsive Huddle Landing Page with Alternating Blocks
+Responsive Huddle Landing Page with Alternating Feature Blocks
 
 ### The challenge
 
